@@ -1,0 +1,61 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+.Adcontainer{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+    margin-right: 40px;
+    justify-content: center;
+    align-items: center;
+  }
+  .Adcontainer-mid{
+    display: flex;
+    flex-direction: row;
+    margin-left: 60px;
+    margin-right: 60px;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  .Adcontainer-sub{
+    width: 40vh;
+    height: 40vh;
+  }
+
+
+  .demo-container{
+    height: 100vh;
+    width: 100%;
+  }
+
+  .genral-instruction{
+    background-color: #cbccd2d6;
+    border-radius: 10px;
+    height: 55%;
+    width: 30%;
+    font-size: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    
+  }
+  .division{
+    display: flex;
+    flex-direction: row;
+    height: 50vh;
+
+  }
+  .left-side{
+    width: 25%;
+    height: 80%;
+
+  }
+  .right-side{
+    width: 25%;
+    height: 80%;
+
+
+  }
